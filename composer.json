@@ -14,6 +14,12 @@
             "email": "mark.sagikazar@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/suweitan/guzzle6-adapter.git"
+        }
+    ],
     "require": {
         "php": "^7.1 || ^8.0",
         "php-http/httplug": "^2.0",
